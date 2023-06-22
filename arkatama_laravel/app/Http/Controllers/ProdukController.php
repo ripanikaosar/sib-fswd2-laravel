@@ -11,8 +11,8 @@ class ProdukController extends Controller
      */
     public function index()
     {
-        $namamhs = "Ripani Kaosar";
-        $deskripsi = "Ripani Kaosar adalah Mahaisiswa Teknik Informatika Universitas Catur Insan Cendekia yang sedang Mengikuti Program Studi Independen di PT. Arkatama Multi Solusindo Path Fullstack Web Development. Semoga bisa Menyelesaikan Program Ini.";
+        $namamhs = "Jear Riyan Wibowo";
+        $deskripsi = "Jear Riyan Wibowo adalah Mahaisiswa Teknik Informatika Universitas Catur Insan Cendekia yang sedang Mengikuti Program Studi Independen di PT. Arkatama Multi Solusindo Path Fullstack Web Development. Semoga bisa Menyelesaikan Program Ini.";
         $nama = [
             'Laptop',
             'PC',
